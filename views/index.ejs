@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('partials/header.ejs') %>
+<body>
+<main>
+    <h1>cool images</h1>
+    <form action="/search">
+        <input type="text" placeholder="Type Keyword" name="keyword"/>
+        <br><br>
+        <button>Search</button>
+        <br><a href="/getKeywords">See Favorites</a>
+    </form>
+</main>
+<%- include('partials/footer.ejs') %>
+</body>
+</html>
