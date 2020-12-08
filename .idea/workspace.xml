@@ -11,17 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f0a492e-7140-406b-b46c-4a2cb9908666" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbPool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/favorite_on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/favorites.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/header.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/results.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607321434032</updated>
-      <workItem from="1607321436134" duration="7285000" />
+      <workItem from="1607321436134" duration="7580000" />
     </task>
     <servers />
   </component>
